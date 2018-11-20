@@ -1,16 +1,16 @@
 {
-  "name": "vscode-react-typescript",
-  "version": "1.0.17",
-  "description": "Code snippets for react in typescript",
-  "displayName": "Typescript React code snippets",
-  "publisher": "infeng",
+  "name": "vscode-react-mobx-typescript",
+  "version": "0.9.0",
+  "description": "Code snippets for react and mobx in typescript",
+  "displayName": "Typescript React Mobx code snippets",
+  "publisher": "grolig",
   "icon": "images/react.png",
   "galleryBanner": {
     "theme": "light"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/infeng/vscode-react-typescript.git"
+    "url": "git+https://github.com/grolig/vscode-react-typescript.git"
   },
   "engines": {
     "vscode": "0.10.x"
@@ -24,12 +24,12 @@
     "typescript",
     "vscode-extension"
   ],
-  "author": "infeng",
+  "author": "grolig",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/infeng/vscode-react-typescript/issues"
+    "url": "https://github.com/grolig/vscode-react-typescript.git"
   },
-  "homepage": "https://github.com/infeng/vscode-react-typescript#readme",
+  "homepage": "https://github.com/grolig/vscode-react-typescript.git#readme",
   "contributes": {
     "snippets": [
       {
